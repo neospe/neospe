@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Stefan 👋
 
-<!--
-**neospe/neospe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a background in Machine Learning and Security. I have previously built
+- a SaaS and MLOps Platform for highly efficient and multilingual Text Classification
+- an infrastructure automation framework
+- LLM harnesses and apps
+- large language corpora
+- OSS tools and learning materials
 
-Here are some ideas to get you started:
+Also, I
+- contributed to computational methods in the field of Digital Humanities
+- worked on XML terminology representation standards with ISO/DIN
+- have a lot of unpublished data on metaphor use in historical German novels (unfinished PhD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Publications</summary>
+</details>
