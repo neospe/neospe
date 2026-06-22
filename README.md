@@ -12,6 +12,8 @@ Also, I
 - worked on XML terminology representation standards with ISO/DIN
 - have a lot of unpublished data on metaphor use in historical German novels (unfinished PhD)
 
+[PGP](./stefan@pernes.net.asc) | [SimpleX](https://smp19.simplex.im/a#C3Urcujo-hKMy0RcIxw_Kj_sUfPrF39tJg767m-k_HE)
+
 <details>
 <summary>Publications</summary>
 
