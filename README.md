@@ -1,16 +1,13 @@
 ## Hi, I'm Stefan 👋
 
-Software Engineer with a background in Machine Learning and Security. I have previously built
-- a SaaS and MLOps platform for highly efficient and multilingual Text Classification
-- an infrastructure automation framework
-- LLM harnesses and apps
-- large language corpora
-- OSS tools and learning materials
+Software engineer with a background in machine learning and security. Open source work that has accumulated over the years:
 
-Also, I
-- contributed to computational methods in the field of Digital Humanities
-- worked on XML terminology representation standards with ISO/DIN
-- have a lot of unpublished data on metaphor use in historical German novels (unfinished PhD)
+- [autofit2](https://github.com/neospe/autofit2): few-shot text classification in 50+ languages, with bias evaluation and shortcut detection in every model card
+- [autoops](https://github.com/neospe/autoops): a service and data mesh across servers (WireGuard, Garage S3, Traefik), run from a Makefile
+- [sentence-transformers](https://github.com/neospe/sentence-transformers/tree/ear): fork with entropy-based attention regularization (EAR)
+- [dataload](https://github.com/neospe/dataload): loaders for text classification datasets
+
+Before: SaaS, large language corpora, Digital Humanities.
 
 [PGP](./stefan@pernes.net.asc) | [SimpleX](https://smp19.simplex.im/a#C3Urcujo-hKMy0RcIxw_Kj_sUfPrF39tJg767m-k_HE)
 
@@ -31,7 +28,7 @@ Also, I
 - Pernes, S., Romary, L., Warburton, K. (2017). TBX in ODD: Schema-agnostic specification and documentation for TermBase eXchange. In Proceedings of Language, Ontology, Terminology and Knowledge Structures Workshop (LOTKS 2017). ACL Anthology W17-7000
 - Pernes, S., Keller, L., Peterek, C. (2017). Aufbau eines historisch-literarischen Metaphernkorpus für das Deutsche. In DHd 2017, Digital Humanities im deutschsprachigen Raum: Konferenzabstracts. Universität Bern, Bern, pp. 91-94.
 - Pernes, S. (2016). Metaphor Mining in Historical German Novels: Using Unsupervised Learning to Uncover Conceptual Systems in Literature. In Digital Humanities 2016: Conference Abstracts. Jagiellonian University and Pedagogical University, Kraków, pp. 651-653.
-- Reimers, N., Jannidis, F., Pernes, S., Pielström, S., Reger, I., Vitt, T. (2016). A Tool or NLP-Preprocessing in Literary Text Analysis. In Digital Humanities 2016: Conference Abstracts. Jagiellonian University and Pedagogical University, Kraków, pp. 871-872.
+- Reimers, N., Jannidis, F., Pernes, S., Pielström, S., Reger, I., Vitt, T. (2016). A Tool for NLP-Preprocessing in Literary Text Analysis. In Digital Humanities 2016: Conference Abstracts. Jagiellonian University and Pedagogical University, Kraków, pp. 871-872.
 - Pernes, S. (2015). Metaphor Mining in Historical German Novels: An Unsupervised Learning Approach. In: Proceedings of the IEEE International Conference on Big Data 2015, Santa Clara, pp.1650-1652. doi:10.1109/BigData.2015.7363934
 
 ## Book Chapters
